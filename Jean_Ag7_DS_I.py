@@ -1,6 +1,6 @@
 # Declaração de variaveis para o projeto do Desconto de compras
 
-Imovel = input("Qual imovel é o desejado (Apartamento, Casa, Comercial): ")
+Imovel = input("Qual imovel é o desejado (Escreva uma dessas opções: Apartamento, Casa, Comercial): ")
 Imovel = Imovel.lower()  # Converte a entrada para minúsculas para facilitar a comparação
 
 # Estrutura da funcionalidade do código e resposta do programa

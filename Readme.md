@@ -63,7 +63,7 @@ Antes de começar, você vai precisar ter o **Python 3.x** instalado em sua máq
 
 1. **Clone o repositório** (ou baixe o arquivo `Jean_Ag7_DS_I.py`):
    ```bash
-   git clone https://github.com/jean-marco1977/Desconto/blob/main/Jean_Ag6_DS_I.py
+   git clone https://github.com/jean-marco1977/controle-agua/blob/main/Jean_Ag7_DS_I.py
    ```
 
 2. **Navegue até a pasta** do projeto:
