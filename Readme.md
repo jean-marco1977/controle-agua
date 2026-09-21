@@ -76,4 +76,4 @@ Antes de começar, você vai precisar ter o **Python 3.x** instalado em sua máq
    python Jean_Ag7_DS_I.py
    ```
 
-4. **Interaja com o terminal** inserindo o valor do que foi gasto.
+4. **Interaja com o terminal** insera o nome do imóvel dentre as seguintes opções (Comercial, Apartamento ou Casa), depois insira o valor do consumo da água em m³ e terá a resposta do programa.
